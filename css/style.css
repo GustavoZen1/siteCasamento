@@ -1,6 +1,15 @@
 .navteste{
-    background-color: #B3D6F0;
+    background-color: rgba(255, 255, 255, 0.504);
     padding: 15px;
+    border:1mm; 
+    border-bottom: rgb(255, 255, 255);
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    font-size: x-large;
+    display: flex;
+
 
 }
 
@@ -12,7 +21,7 @@ body{
 }
 
 .pesquisar{
-    padding-left: 1400px;
+    padding-left: 800px;
 }
 
 .img{
@@ -36,4 +45,29 @@ body{
 
 .a, .b, .c, .d, .j{
     font-family: sans-serif;
+}
+.fundo{
+    background-color: rgba(255, 255, 255, 0.603);
+}
+.espaco{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.last{
+    background-color: whitesmoke;
+}
+.fundot{
+    background-color: rgba(255, 255, 255, 0.76);
+}
+.distanciamento{
+    margin-left: 60px;
+    display: flex;
+}
+.distanciamentot{
+    margin-top: 60px;
+    margin-right: 90px;
+    margin-bottom: 60px;
+}
+p{
+    font-size: large;
 }
